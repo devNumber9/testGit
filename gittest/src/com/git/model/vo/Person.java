@@ -12,7 +12,8 @@ public class Person {
 	private String phone;
 	private String email;
 	private String intro;
-	
+	private String hohoho;
+
 	
 	public Person() {
 		// TODO Auto-generated constructor stub
